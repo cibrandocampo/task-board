@@ -1,4 +1,4 @@
-# Lista Tareas
+# Lista Tareas - TaskBoard
 
 This is a small project developed under Vue.js that allow to the user to have a Front 100% web Taskboard
 
